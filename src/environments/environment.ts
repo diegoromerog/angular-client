@@ -3,7 +3,14 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  URL_WS_BACKEND: "https://118qq72cjj.execute-api.us-east-1.amazonaws.com/test/",
+  token_name: "token",
+  user: "user",
+  user_name: "name",
+  idUsuario: "idUsuario",
+  idPerfil: "idPerfil",
+  idMenu: "idMenu",
 };
 
 /*
